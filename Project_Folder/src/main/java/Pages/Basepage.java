@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 
 
-public class BasePage {
+public class Basepage {
 
 	
 
